@@ -3,7 +3,7 @@ def Add(a, b):
 
 
 def SayHello():
-    print("hello main")
+    print("hello main 2")
 
 
 if __name__ == '__main__':
